@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authdync",
+        "uuid": 1990212,
+        "checksum": "c0regs"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
